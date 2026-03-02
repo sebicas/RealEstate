@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5038c566-efa4-4636-a559-cec89db653bf",
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "(555) 123-4567",
+    "password": "$2b$12$ZmKpmZknqOXyWO.GbNYUsuU4AR1C/fJgUgwU.M.djVUxbGTQ6VYg6",
+    "createdAt": "2026-03-01T14:42:27.506Z"
+  },
+  {
+    "id": "1b6288f8-bb01-47b2-b340-151435c06bf8",
+    "name": "Sebastian Castro",
+    "email": "sebicas@gmail.com",
+    "phone": "941123456789",
+    "password": "$2b$12$AghpeSCIB6j2f19PDcJ4fuE8rCS1NzbUtFV4wVH2.1fJAUb2F56Nm",
+    "createdAt": "2026-03-01T22:23:17.005Z"
+  }
+]
