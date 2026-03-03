@@ -9,7 +9,7 @@ export default function ListingCard({ listing }) {
     }).format(price);
   };
 
-  const imageUrl = listing.images?.[0] || '/images/placeholder.jpg';
+  const imageUrl = listing.images?.[0] || '/images/placeholder.svg';
 
   return (
     <Link href={`/listings/${listing.id}`} className="listing-card">

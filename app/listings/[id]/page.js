@@ -26,7 +26,7 @@ export default async function ListingDetailPage({ params }) {
     }).format(price);
   };
 
-  const imageUrl = listing.images?.[0] || '/images/placeholder.jpg';
+  const imageUrl = listing.images?.[0] || '/images/placeholder.svg';
   const agentInitials = listing.agentName?.split(' ').map(n => n[0]).join('') || '?';
 
   return (
